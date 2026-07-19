@@ -1,0 +1,13 @@
+# this prints a student card #
+print("*" * 20)
+print("STUDENT PROFILE CARD")
+print("*" * 20)
+print("Name: {shammah sunday}")
+print("Age: {17}")
+print("Department: {information technology}")
+print("School: {plateau state university}")
+print("Level: {300}")
+print("State: {plateau state}")
+print("Favourite Color: {redr}")
+print("Favourite Food: {chips}")
+print("Birth Year: {2009}")

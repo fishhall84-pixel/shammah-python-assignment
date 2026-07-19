@@ -1,0 +1,10 @@
+# this print my first assignment #
+print("*" * 30)
+print("    STUDENT PROFILE")
+print("*" * 30)
+print("WELCOME TO PYTHON")
+print("Name: Shammah Sunday")
+print("School:Plateau state university bokkos")
+print("Department:Information Technology")
+print("Favourite food:Chips and chicken")
+print("Favourite programming language:Python")

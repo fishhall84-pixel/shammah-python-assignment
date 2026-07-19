@@ -1,0 +1,7 @@
+# this a student student registration potrtal
+print("STUDENT REGISTRATION")
+print("=" * 27)
+print(f"Welcome {Shammah}")
+print("You have successfully registered.")
+print(f"Department:\n{information technology}")
+print(f"{fishhall84@gmail.com}")
