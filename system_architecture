@@ -1,0 +1,49 @@
+# System Architecture
+The OSI Model
+
+The OSI Model means Open Systems Interconnection. It is a model with 7 layers that explains how data moves from one device to another. It is mostly used for learning because real networks do not use it directly.
+
+The 7 Layers
+
+Application - Where users use apps like browsers and email.
+Presentation - Changes data format and does encryption.
+Session - Starts and ends communication.
+Transport - Sends data using TCP or UDP.
+Network - Uses IP addresses to send data.
+Data Link - Uses MAC addresses and prepares data.
+Physical - Sends data through cables or wireless signals.
+
+Why OSI is not used in real life
+
+The OSI model is only for learning. Real networks use the TCP/IP model because it is simpler and works better.
+
+TCP/IP Model
+
+The TCP/IP model has 4 layers:
+
+Application - Works with apps like HTTP, DNS and FTP.
+Transport - Uses TCP and UDP.
+Internet - Handles IP addresses and routing.
+Network Access - Sends data through the network hardware.
+
+System Architecture
+
+What happens when you click your mouse
+
+1.You click the mouse or press a key.
+2.The device sends a signal to the computer.
+3.The CPU tells the kernel to handle the signal.
+4.The kernel sends it to the correct program.
+5.The CPU loads the program that needs to respond.
+6.The MMU finds the data in RAM.
+7.The CPU runs the Fetch, Decode and Execute cycle.
+8.The application processes the action.
+9.The GPU draws the new screen.
+10.The monitor shows the result.
+
+Addressing Modes
+
+Immediate - Data is inside the instruction.
+Direct - Data is at a fixed memory address.
+Register - Data is in a CPU register.
+Indirect - The instruction points to the data.
